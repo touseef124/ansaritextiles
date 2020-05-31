@@ -1,0 +1,27 @@
+@font-face{
+    font-family: Ubuntu;
+    src: url(fonts/Ubuntu-Regular.ttf);
+}
+li:hover{
+    background-color: darkslategray;
+    border-radius: 15px;
+    border: 2px solid royalblue;
+}
+h1{
+    font-family: Ubuntu;
+    color: royalblue;
+}
+.form{
+    width: 80%;
+}
+.gotop{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+}
+
+.subject{
+    justify-content: left !important;
+    font-size: 20px !important;
+    color: royalblue;
+}

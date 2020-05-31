@@ -1,0 +1,50 @@
+@font-face{
+    font-family: Ubuntu;
+    src: url(fonts/Ubuntu-Regular.ttf);
+}
+*{
+    font-family: Ubuntu;
+}
+
+
+
+li:hover{
+    background-color: darkslategray;
+    border-radius: 15px;
+    border: 2px solid royalblue;
+}
+
+
+h2{
+    color: royalblue;
+    margin: 20px;
+    text-shadow: 5px 5px 10px darkgray;
+}
+.goingup{
+    width: 80%;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 15px;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px darkgray;
+    margin-bottom: 30px;
+}
+.blue{
+    display: inline-flex;
+    color: royalblue;
+    cursor: pointer;
+    text-shadow: 3px 3px 5px darkgray;
+}
+.container{
+    width: 90%;
+}
+.card{
+    display: inline-flex;
+    margin: 10px;
+}
+.gotop{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+}
+

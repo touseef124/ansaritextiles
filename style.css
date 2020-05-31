@@ -1,0 +1,37 @@
+@font-face{
+    font-family:Merriweather ;
+    src: url(Fonts/Merriweather-Regular.ttf);
+    font-family: Ubuntu;
+    src: url(Fonts/Ubuntu-Regular.ttf);
+   }
+*{
+    font-family: Ubuntu;
+}
+
+
+.carousel slide{
+    width: 90% !important;
+}
+.dropdown-item:hover{
+    color: white;
+    background-color: darkslategrey;
+}
+h1{
+    margin-top: 20px;
+}
+.card{
+    display: inline-flex;
+}
+.text-secondary{
+    padding: 20px;
+}
+.gotop{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+}
+.mover{
+    background-color: royalblue;
+    color: #f0f0f0;
+    font-size:20px;
+}

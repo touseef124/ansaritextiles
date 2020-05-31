@@ -1,0 +1,22 @@
+@font-face{
+    font-family: Ubuntu;
+    src: url(fonts/Ubuntu-Regular.ttf);
+}
+*{
+    font-family: Ubuntu;
+}
+li:hover{
+    background-color: darkslategray;
+    border-radius: 15px;
+    border: 2px solid royalblue;
+}
+
+
+p
+{
+    color: darkgray;
+    font-size: 25px ;
+}
+h1{
+    color: royalblue;
+}
