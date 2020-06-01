@@ -1,6 +1,9 @@
 @font-face{
     font-family: Ubuntu;
-    src: url(fonts/Ubuntu-Regular.ttf);
+    src: url(Fonts/Ubuntu-Regular.ttf);
+}
+*{
+    font-family: Ubuntu;
 }
 li:hover{
     background-color: darkslategray;
