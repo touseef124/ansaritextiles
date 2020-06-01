@@ -1,7 +1,7 @@
 @font-face{
     font-family: Ubuntu;
     src: url(Fonts/Ubuntu-Regular.ttf);
-}
+   }
 *{
     font-family: Ubuntu;
 }
